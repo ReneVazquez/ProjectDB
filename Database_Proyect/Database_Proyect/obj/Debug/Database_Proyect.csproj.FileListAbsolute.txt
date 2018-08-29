@@ -1,0 +1,10 @@
+c:\users\rvazquez\source\repos\Database_Proyect\Database_Proyect\obj\Debug\Database_Proyect.csprojAssemblyReference.cache
+c:\users\rvazquez\source\repos\Database_Proyect\Database_Proyect\obj\Debug\Database_Proyect.Form1.resources
+c:\users\rvazquez\source\repos\Database_Proyect\Database_Proyect\obj\Debug\Database_Proyect.Properties.Resources.resources
+c:\users\rvazquez\source\repos\Database_Proyect\Database_Proyect\obj\Debug\Database_Proyect.csproj.GenerateResource.cache
+c:\users\rvazquez\source\repos\Database_Proyect\Database_Proyect\obj\Debug\Database_Proyect.csproj.CoreCompileInputs.cache
+c:\users\rvazquez\source\repos\Database_Proyect\Database_Proyect\bin\Debug\Database_Proyect.exe.config
+c:\users\rvazquez\source\repos\Database_Proyect\Database_Proyect\bin\Debug\Database_Proyect.exe
+c:\users\rvazquez\source\repos\Database_Proyect\Database_Proyect\bin\Debug\Database_Proyect.pdb
+c:\users\rvazquez\source\repos\Database_Proyect\Database_Proyect\obj\Debug\Database_Proyect.exe
+c:\users\rvazquez\source\repos\Database_Proyect\Database_Proyect\obj\Debug\Database_Proyect.pdb
